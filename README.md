@@ -16,7 +16,8 @@ i3WM
 ZSH
 - [`~/.zshrc`](./zsh/.zshrc): zsh
 
-CODE
+Editor
+- [`~/.config/nvim/lua/chadrc.lua`](nvim/lua/chadrc.lua)
 - [`vscode`](code/wspace.code-profile)
 
 DEV-ENV
