@@ -1,17 +1,21 @@
-# i3 config file (v4)
-#     ..-'''-.     
-# .--.\.-'''\ \    
-# |__|       | |   
-# .--.    __/ /    
-# |  |   |_  '.    
-# |  |      `.  \  
-# |  |        \ '. 
-# |  |         , | 
-# |__|         | | 
-#             / ,' 
-#     -....--'  /  
-#     `.. __..-'   
-# # reference https://i3wm.org/docs/userguide.html 
+# ---------------------------------------------------------
+# i3 config file (v0.1)
+# ---------------------------------------------------------
+#     ..-'''-.
+# .--.\.-'''\ \
+# |__|       | |
+# .--.    __/ /
+# |  |   |_  '.
+# |  |      `.  \
+# |  |        \ '.
+# |  |         , |
+# |__|         | |
+#             / ,'
+#     -....--'  /
+#     `.. __..-'
+# @Mnpr
+# ---------------------------------------------------------
+# # reference https://i3wm.org/docs/userguide.html
 
 # set modifier
 set $mod Mod4
@@ -57,7 +61,7 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
 bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
 
-# Font 
+# Font
 font pango:BlexMono Nerd Font
 
 
@@ -65,7 +69,7 @@ font pango:BlexMono Nerd Font
 set $up k
 set $down j
 set $left l
-set $right h 
+set $right h
 
 # use Mouse+Mod1 to drag floating windows to their wanted position
 floating_modifier $mod
