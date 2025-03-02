@@ -20,4 +20,5 @@ CODE
 - [`vscode`](code/wspace.code-profile)
 
 DEV-ENV
-- [`python_miniforge_mamba`](dev_envs/py_mambaforge.sh)
+- [`python_miniforge_mamba`](dev_envs/python/py_mambaforge.sh)
+- [`c_cmake`](dev_envs/c_cpp/c_make.sh)
