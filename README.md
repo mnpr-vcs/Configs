@@ -8,13 +8,13 @@
 ```
 
 Alacritty
-- [`~/.config/alacritty/alacritty.toml`](./alacritty/alacritty.toml): alacritty
+- [`~/.config/alacritty/alacritty.toml`](./alacritty/alacritty.toml)
 
 i3WM
-- [`~/.config/i3/config`](./i3/config): i3
+- [`~/.config/i3/config`](./i3/config)
 
 ZSH
-- [`~/.zshrc`](./zsh/.zshrc): zsh
+- [`~/.zshrc`](./zsh/.zshrc):
 
 Editor
 - [`~/.config/nvim/lua/chadrc.lua`](nvim/lua/chadrc.lua)
