@@ -23,3 +23,4 @@ Editor
 DEV-ENV
 - [`python_miniforge_mamba`](dev_envs/python/py_mambaforge.sh)
 - [`c_cmake`](dev_envs/c_cpp/c_make.sh)
+- [`esp_idf`](dev_envs/esp_idf/esp_idf_setup.sh)
